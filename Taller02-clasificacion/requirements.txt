@@ -1,0 +1,21 @@
+# AutoGluon tabular con versiones compatibles
+autogluon.tabular==0.8.2
+autogluon==0.8.2
+scikit-learn==1.2.2
+
+# TensorFlow con soporte para Apple Silicon GPU (Metal)
+tensorflow-macos
+tensorflow-metal
+
+# Visualización
+matplotlib
+pandas
+seaborn
+
+# Jupyter + widgets
+notebook
+ipywidgets
+
+# Utilidades
+tqdm
+Pillow
